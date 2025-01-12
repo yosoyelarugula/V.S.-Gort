@@ -1,3 +1,8 @@
+V.S. Gort is a mod based on JS Engine.
+
+<details>
+  <summary><h2>OG JS Engine Stuff</h2></summary>
+
 <!-- this is an secret -->
 <h1 align="center">
   <br>
